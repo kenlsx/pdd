@@ -9,7 +9,7 @@ Vue.component(Actionsheet.name, Actionsheet);
 import { DatetimePicker } from 'mint-ui';
 Vue.component(DatetimePicker.name, DatetimePicker);
 
-import router from './router/index'
+  import router from './router/index'
 import LyTab from 'ly-tab'
 import './../static/css/reset.css'
 import '@/common/css/style.css'
